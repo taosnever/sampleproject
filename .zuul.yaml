@@ -8,3 +8,7 @@
 - job:
     name: timeout
     run: timeout.yaml
+
+- job:
+    name: echo
+    run: echo.yaml
