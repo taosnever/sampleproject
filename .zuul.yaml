@@ -14,4 +14,3 @@
     required-projects:
       - jluk-codi-org/anotherproject
     run: echo.yaml
-
