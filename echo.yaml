@@ -1,4 +1,4 @@
 - hosts: all
   tasks:
     - command: date
-    - command: ls -alR /home/zuul/src
+    - command: ls -alR /root/src
